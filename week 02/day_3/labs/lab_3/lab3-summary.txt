@@ -1,0 +1,22 @@
+=== Lab 3 Summary ===
+Date: Thu Feb 26 09:08:23 PM +04 2026
+User: ichihiroy
+System: Linux pop-os 6.18.7-76061807-generic #202601231045~1769703228~24.04~cb87b5b SMP PREEMPT_DYNAMIC Thu J x86_64 x86_64 x86_64 GNU/Linux
+
+Tools Installed:
+- htop: /usr/bin/htop
+- curl: /usr/bin/curl
+- wget: /usr/bin/wget
+- tree: /usr/bin/tree
+
+Key Commands Learned:
+- System monitoring: free, df, uptime, ps, htop
+- Package management: apt/yum install, search
+- Process management: jobs, fg, bg, kill
+- Service management: systemctl status
+- Network diagnostics: ip, ping, ss/netstat
+
+Web Server Preparation:
+- Created /var/www/html directory
+- Created test index.html file
+- Ready for Apache installation tomorrow
