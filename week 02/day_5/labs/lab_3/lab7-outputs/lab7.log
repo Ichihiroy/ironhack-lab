@@ -1,0 +1,6 @@
+[2026-02-27_11:36:59] common.sh initialized from ichihiroy
+[2026-02-27_11:55:10] Matched files: 0 (dir=/home/ichihiroy/lab7/demo pattern=*.log older_than=0)
+[2026-03-02_09:39:51] Matched files: 0 (dir=/home/ichihiroy/lab7/demo pattern=*.log older_than=0)
+[2026-03-02_09:41:02] Backup created and verified: /home/ichihiroy/lab7-outputs/lab7-20260302-094102.tgz
+[2026-03-02_09:42:23] Matched files: 0 (dir=/home/ichihiroy/lab7/demo pattern=*.log older_than=0)
+[2026-03-02_09:42:26] Backup created and verified: /home/ichihiroy/lab7-outputs/lab7-20260302-094226.tgz

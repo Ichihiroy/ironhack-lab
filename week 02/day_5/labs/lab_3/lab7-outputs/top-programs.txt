@@ -1,0 +1,20 @@
+  44461 CTRL-EVENT-SIGNAL-CHANGE
+  23191 
+  15651 0000
+  12718 update
+  12305 ›
+  10978 parser
+   6221 repeated
+   5614 AMDGPU(0)
+   5506 St.Icon
+   4695 target
+   3924 .Gjs_ui_dash_DashItemContainer
+   3768 to
+   3512 level=info
+   3025 Warning
+   2981 Option
+   2944 Radeon
+   2878 Deactivated
+   2722 registered
+   2196 -
+   2185 SPLASH_UPDATE_STATE
